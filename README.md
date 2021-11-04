@@ -110,9 +110,10 @@ opts.batchsize = 100;
 ```
 
 
-Please cite this article : <b>Gokhan ALTAN, SecureDeepNet-IoT: A Deep Learning application for Invasion Detection in IIoT sensing systems </b>
-*The paper is in review process, the details and optimum weight will be added after publication.
+Please cite this article : <b>Gokhan ALTAN, SecureDeepNet-IoT: A Deep Learning application for Invasion Detection in IIoT sensing systems, Transactions on Emerging Telecommunications Technologies, Wiley, Vol.32, Issue.4, e4228, 2021 (SCI) DOI: https://doi.org/10.1002/ett.4228 </b>
+
 
 [1] R. B. Palm, Prediction as a candidate for learning deep hierarchical models of data, 2012, Master Thesis, https://github.com/rasmusbergpalm/DeepLearnToolbox
+    
 
 </div>
