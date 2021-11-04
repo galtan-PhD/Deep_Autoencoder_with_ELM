@@ -114,6 +114,6 @@ Please cite this article : <b>Gokhan ALTAN, SecureDeepNet-IoT: A Deep Learning a
 
 
 [1] R. B. Palm, Prediction as a candidate for learning deep hierarchical models of data, 2012, Master Thesis, https://github.com/rasmusbergpalm/DeepLearnToolbox
-    
+     
 
 </div>
